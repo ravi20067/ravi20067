@@ -45,7 +45,7 @@ Here are some of my key projects:
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravi-kumar-a98788290)  
 - 🐙 [GitHub](https://github.com/ravi20067)  
-- ✉️ Email: *your-email@example.com*  
+- ✉️ Email: *kumarr3829@gmail.com*  
 
 ---
 
