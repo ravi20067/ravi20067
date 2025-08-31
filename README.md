@@ -1,67 +1,52 @@
 # 👋 Hi, I'm Ravi Kumar  
 
-🚀 **B.Tech CSE Student | Java Developer | Cybersecurity Enthusiast**  
-
-Welcome to my GitHub profile! I'm passionate about **Java development, cybersecurity, and building impactful projects** that solve real-world problems. Currently, I’m exploring **web development, Java projects, and security concepts** while working on personal projects and learning from online resources.  
-
----
-
-## 🧑‍💻 About Me
-- 🎓 1st Year B.Tech CSE Student at Dev Bhoomi University  
-- 💻 Interested in **Java development, cybersecurity, and web technologies**  
-- 🌱 Currently learning: **Java (Core & Advanced), Cybersecurity basics, and DSA**  
-- ⚡ Fun fact: I believe in **learning by building** 🚀  
+🎓 **B.Tech CSE Student @ Dev Bhoomi University**  
+💻 **Java Developer | Cybersecurity Enthusiast | Web Learner**  
 
 ---
 
-## 🔨 My Projects
-Here are some of my key projects:  
-
-- 🛍️ [**Mango Shop**](https://github.com/ravi20067/mangoshop)  
-  *Java-based e-commerce system with admin & user modules, login portal, and email notifications.*  
-
-- 🎓 [**Education Hub**](https://github.com/ravi20067/Education-Hub)  
-  *An educational platform with user & admin dashboards to manage courses, PDFs, and videos.*  
-
-- 📝 [**Bio Project**](https://github.com/ravi20067/bio)  
-  *A simple project to create and manage personal bio details.*  
-
-- ✊ [**Rock Paper Scissor**](https://github.com/ravi20067/Rock-Paper-Scissor)  
-  *Classic game built in Java with clean logic and user interaction.*  
-
-- 💱 [**Currency Converter**](https://github.com/ravi20067/Currency-Converter)  
-  *Java application to convert between multiple currencies with real-time logic.*  
+## 🚀 About Me
+- 🌱 Currently learning **Java, Cybersecurity & DSA**  
+- 💡 Exploring **Web Development & Real-world Projects**  
+- 🎯 Goal: To become a **skilled developer & cybersecurity expert**  
+- ⚡ Fun Fact: I love solving problems by **building projects**  
 
 ---
 
-## ⚡ Skills
-- **Languages:** Java, HTML, CSS, JavaScript  
-- **Concepts:** Object-Oriented Programming (OOP), Cybersecurity basics, DSA  
-- **Tools & Platforms:** Git, GitHub, NetBeans, VS Code  
-- **Other Interests:** Problem Solving, Building Scalable Applications, Security  
+## 🛠️ Skills & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)  
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ravi-kumar-a98788290)  
-- 🐙 [GitHub](https://github.com/ravi20067)  
-- ✉️ Email: *kumarr3829@gmail.com*  
+## 📌 Projects
+- 🛍️ [**Mango Shop**](https://github.com/ravi20067/mangoshop) – Java E-commerce System  
+- 🎓 [**Education Hub**](https://github.com/ravi20067/Education-Hub) – Course & User Management Platform  
+- 📝 [**Bio Project**](https://github.com/ravi20067/bio) – Personal Bio Management  
+- ✊ [**Rock Paper Scissor**](https://github.com/ravi20067/Rock-Paper-Scissor) – Classic Java Game  
+- 💱 [**Currency Converter**](https://github.com/ravi20067/Currency-Converter) – Multi-Currency Converter  
 
 ---
 
-⭐️ *"Code, Learn, Build, Repeat."* 🚀  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi20067&show_icons=true&theme=tokyonight" alt="Ravi's GitHub stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi20067&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+</p>
 
-<!--
-**ravi20067/ravi20067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-a98788290)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravi20067)  
+📧 Email: *your-email@example.com*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐️ *“Code, Learn, Build, Repeat.”* 🚀
