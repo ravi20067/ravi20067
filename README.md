@@ -45,7 +45,7 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-a98788290)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravi20067)  
-📧 Email: *your-email@example.com*  
+📧 Email: *kumarr3829@gmail.com*  
 
 ---
 
